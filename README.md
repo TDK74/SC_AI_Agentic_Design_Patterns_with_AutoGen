@@ -3,7 +3,7 @@
 ### Acknowledgments
 The Python code is from the short course "AI Agentic Design Patterns with AutoGen"  on the DeepLearning.AI platform, available for free.  
 For more details, visit:  
-< />
+<https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
