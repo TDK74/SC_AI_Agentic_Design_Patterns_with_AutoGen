@@ -1,9 +1,9 @@
 # Short Course: AI Agentic Design Patterns with AutoGen
 
 ### Acknowledgments
-The Python code is from the short course "AI Agentic Design Patterns with AutoGen"  on the DeepLearning.AI platform, available for free.  
+The Python code is from the short course "AI Agentic Design Patterns with AutoGen"  on the DeepLearning.AI platform. The course content is available for free, while the certificate and graded assessments require a paid subscription.  
 For more details, visit:  
-<https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/>
+<https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen/information/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
